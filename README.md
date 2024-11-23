@@ -58,7 +58,7 @@ Whether you’re juggling assignments, prepping for exams, or diving into new to
 ---
 
 ## **🚀 Getting Started**
-1. Clone the Repository:
+1. **Clone the Repository**
    ```bash
    git clone https://github.com/<your-username>/StudySmart.git
    cd StudySmart
@@ -71,9 +71,29 @@ Whether you’re juggling assignments, prepping for exams, or diving into new to
   pip install -r requirements.txt
   python app.py
 ```
-3.**Set Up the Chrome Extension:**
+3. **Set Up the Chrome Extension:**
 
 - Navigate to ```chrome://extensions``` in Chrome.
 - Enable "Developer Mode."
 - Load the ```chrome_extension/ ```folder.
 - Explore the Features and Study Smart!
+
+## **🌟 Why You'll Love StudySmart**
+- Time Saver: Focus on learning, not organizing.
+- AI-Powered Genius: Smarter tools for smarter results.
+- Customizable: Tailored to your pace and goals.
+- Fun & Rewarding: Gamified progress keeps you motivated.
+
+## **🛠️ Contribution**
+We’d love your ideas! Fork the repo, submit a pull request, or just drop us a message.
+
+## **📜 License**
+Licensed under the MIT License.
+
+## **👩‍💻 About the Author**
+**Preeti Aladakatti**
+
+AI enthusiast with a knack for creating smarter tools to make life easier. Let’s connect and innovate together! 💡
+
+Email: impreeti.pa@gmail.com
+
